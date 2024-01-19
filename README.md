@@ -1,2 +1,2 @@
-# Clicker-C-
+# Clicker-C#
 C# clicker
